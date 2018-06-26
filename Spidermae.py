@@ -17,8 +17,7 @@ def jpath(dir,name = ''):
 
 sublist = subreddits()
 
-if not os.path.isdir(jpath('memes')):
-    os.makedirs(jpath('memes'))
+os.chdir(sublist[1])
 
 for sub in sublist[0]:
     count = '1'
