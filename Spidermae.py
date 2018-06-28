@@ -51,7 +51,7 @@ def subreddit(sub):
 
 jobs = []
 
-# I write this code instead of in the next loop here because
+# I write this code here instead of the next loop because
 # I don't want a long gap between each thread's start time
 
 for sub in sublist[0]:
