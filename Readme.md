@@ -2,6 +2,8 @@
 
 Spidermae is a spider which downloads memes from the subreddits of your choice.
 
+It is a cross-platform script which uses multithreading and web crawling to obtain the image, audio or video files from your favourite subreddits and stores it right where you want it to.
+
 This script is written in *python3* so please make sure you use the *python3* interpreter.
 
 ## Pre-requisites
