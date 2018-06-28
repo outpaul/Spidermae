@@ -33,6 +33,6 @@ while next >= current:
         next += interval
 
     else:
-        t = next - current
         time.sleep(1)
+        
     current = math.floor(time.time())
