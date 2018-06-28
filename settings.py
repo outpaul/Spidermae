@@ -1,4 +1,3 @@
-import sys
 
 #-------------------SETTINGS FOR SPIDERMAE.PY-------------------
 

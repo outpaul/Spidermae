@@ -1,7 +1,6 @@
 # Run this file to execute the Spidermae script at regular intervals of your
 # choice.
 
-import datetime
 import time
 import math
 import subprocess

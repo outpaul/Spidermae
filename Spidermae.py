@@ -26,7 +26,7 @@ def subreddit(sub):
         os.makedirs(jpath(sub))
 
     url = "https://www.reddit.com/r/"+sub+"/top?t=week"
-    print("\n\nDownloading from r/"+sub+"...\n\n")
+    print("\nDownloading from r/"+sub+"...\n")
     page = requests.get(url, headers = {'User-agent' : 'Spidermae Bot'})
 
     if page.status_code == requests.codes.ok:
