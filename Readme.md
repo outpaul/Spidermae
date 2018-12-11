@@ -1,6 +1,6 @@
 # **Spidermae**
 
-Spidermae is a spider which downloads memes from the subreddits of your choice.
+Spidermae is a spider which downloads posts from the subreddits of your choice.
 
 It is a cross-platform script which uses multithreading and web crawling to obtain the image, audio or video files from your favourite subreddits and stores it right where you want it to.
 
